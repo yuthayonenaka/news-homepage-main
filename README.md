@@ -20,7 +20,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### Links
 
 - Solution URL: [https://github.com/yuthayonenaka/news-homepage-main](https://github.com/yuthayonenaka/news-homepage-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://zesty-platypus-0fbeed.netlify.app](https://zesty-platypus-0fbeed.netlify.app)
 
 ## My process
 
