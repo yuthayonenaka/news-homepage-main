@@ -27,7 +27,7 @@
   --fs-900: 4.8rem;
 }
 
-@media only screen and (width >= 650px) and (width <= 1280px) {
+@media only screen and (width >= 40.625em) and (width <= 68.94em) {
   :root {
     --fs-300: 1.2rem;
     --fs-400: 1.5rem;
@@ -38,7 +38,7 @@
     --fs-900: 6rem;
   }
 }
-@media only screen and (width > 1280px) {
+@media only screen and (width > 68.94em) {
   :root {
     --fs-300: 1.2rem;
     --fs-400: 1.5rem;
@@ -364,7 +364,7 @@ button:hover {
   }
 }
 
-@media only screen and (width >= 68.75em) {
+@media only screen and (width >= 68.94em) {
   .header {
     margin: 8rem auto 4.8rem auto;
   }
@@ -400,3 +400,4 @@ button:hover {
   font-weight: var(--font-weight-large);
   margin: 4rem 0;
 }
+
