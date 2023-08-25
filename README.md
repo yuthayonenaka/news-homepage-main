@@ -19,7 +19,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/yuthayonenaka/news-homepage-main](https://github.com/yuthayonenaka/news-homepage-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
