@@ -273,6 +273,8 @@ button:hover {
 }
 .new-article p {
   width: max(60%, 30rem);
+  color: var(--color-light-gray);
+  opacity: 94%;
 }
 
 .new-article:not(:last-child) {
